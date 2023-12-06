@@ -1,6 +1,6 @@
 ---
 layout: home
-title: CPP—NOTE
+title: C++记录
 permalink: /
 ---
 
