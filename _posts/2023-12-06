@@ -1,0 +1,15 @@
+  title: 输出C++版本
+  author: AUSTIN
+  date: 2023-12-06
+  category: Jekyll
+  layout: post
++ cover: /assets/jekyll-gitbook/dinosaur.gif
+  ---
+
+    ```c++
+    int main() {
+    std::cout << "C++ Standard: " << __cplusplus << std::endl;
+    return 0;
+}
+
+    ```
