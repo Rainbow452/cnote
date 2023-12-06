@@ -4,5 +4,5 @@ title: C++记录
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
+🌵这是一个C++笔记本，记录任何有用的知识！🌵
 
